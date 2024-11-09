@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b84108e8b659dfd4ba86053706a152d9, type: 3}
+  m_Name: Medic
+  m_EditorClassIdentifier: 
+  Title: 'Enemy: Medic'
+  Panels:
+  - Description: Medics do not attack at all. Instead, they emit a healing field
+      that restores the health of nearby enemies.
+    Graphic: {fileID: 21300000, guid: f5e830104bf011f4ba35d8a6da641fd7, type: 3}
+  - Description: In addition, enemies inside their healing field receive a shield
+      that <b>reduces all damage</b>.
+    Graphic: {fileID: 21300000, guid: d90b0a29f93d4884ba64f29791d9b514, type: 3}

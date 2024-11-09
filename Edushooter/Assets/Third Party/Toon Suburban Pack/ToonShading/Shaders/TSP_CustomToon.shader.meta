@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 14161a1346ce6454ea74f214c3b3d066
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 198146
+  packageName: Toon Suburban Pack
+  packageVersion: 1.0.2
+  assetPath: Assets/Toon Suburban Pack/ToonShading/Shaders/TSP_CustomToon.shader
+  uploadId: 492697

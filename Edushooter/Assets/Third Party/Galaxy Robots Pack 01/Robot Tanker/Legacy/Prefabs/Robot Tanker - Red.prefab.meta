@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fb1b896fe8a778645b3dcc352c7661fa
+timeCreated: 1468141354
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67162
+  packageName: Galaxy Robots Pack 01
+  packageVersion: 1.1
+  assetPath: Assets/Galaxy Robots Pack 01/Robot Tanker/Legacy/Prefabs/Robot Tanker
+    - Red.prefab
+  uploadId: 183769

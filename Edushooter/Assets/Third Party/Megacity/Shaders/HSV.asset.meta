@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7fcc69dda830ec74d898d3b70534c652
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Shaders/HSV.asset
+  uploadId: 669596

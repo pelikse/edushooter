@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "936575874785",
+    "project_id": "myfirstfirebase-5019a",
+    "storage_bucket": "myfirstfirebase-5019a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936575874785:android:3f6a99b3b08a5fbe2669a0",
+        "android_client_info": {
+          "package_name": "com.geometrisatu.edugame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936575874785-0qbrnu5g2r26sshvj93bpjopas1jig1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQe7C3EnD5f1lG9kFKgzJattcXKJokqwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936575874785-0qbrnu5g2r26sshvj93bpjopas1jig1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936575874785:android:76e682d8920001b92669a0",
+        "android_client_info": {
+          "package_name": "com.geometrisatu.edugym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936575874785-0qbrnu5g2r26sshvj93bpjopas1jig1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQe7C3EnD5f1lG9kFKgzJattcXKJokqwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936575874785-0qbrnu5g2r26sshvj93bpjopas1jig1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936575874785:android:735d972ace48f9482669a0",
+        "android_client_info": {
+          "package_name": "com.geometrisatu.edushooter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936575874785-j77gcjug5g2touq5942e05vcs9gicnj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geometrisatu.edushooter",
+            "certificate_hash": "8279fc840b129a81e1ed6c90235576d1267566c4"
+          }
+        },
+        {
+          "client_id": "936575874785-0qbrnu5g2r26sshvj93bpjopas1jig1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQe7C3EnD5f1lG9kFKgzJattcXKJokqwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936575874785-0qbrnu5g2r26sshvj93bpjopas1jig1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

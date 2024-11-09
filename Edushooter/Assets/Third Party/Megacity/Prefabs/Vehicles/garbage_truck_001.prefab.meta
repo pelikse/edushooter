@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 92bbe8f48c4b59047a2e3c94c93ce48e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Vehicles/garbage_truck_001.prefab
+  uploadId: 669596

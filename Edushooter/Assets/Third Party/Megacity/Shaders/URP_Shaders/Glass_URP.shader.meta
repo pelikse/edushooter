@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c7b3186e154625f4f95d11093c131a4c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Shaders/URP_Shaders/Glass_URP.shader
+  uploadId: 669596

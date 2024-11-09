@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c4dd21966739024fbd72155091d199e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 3.5
+  assetPath: Assets/TopDownEngine/ThirdParty/NavMeshComponents/Scripts/NavMeshComponents.asmdef
+  uploadId: 621949

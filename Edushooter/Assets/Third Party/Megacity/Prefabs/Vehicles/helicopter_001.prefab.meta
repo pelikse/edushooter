@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c30c02e2b8eb8142a600833f52581cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Vehicles/helicopter_001.prefab
+  uploadId: 669596

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3292697810977259697
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8438275776174025153}
+  - component: {fileID: 8553734478567893599}
+  m_Layer: 0
+  m_Name: ProgressManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8438275776174025153
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3292697810977259697}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 9.329519, y: 45.713085, z: 63.283997}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8553734478567893599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3292697810977259697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f2f90a67151754b8ab59c1bb1cdd58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AutomaticallyUnparentOnAwake: 1
+  LoadSaveOnStart: 0
+  CheckForFirebaseOnLoad: 1
+  TestAddCoinsBtn: 0
+  TestAddGemsBtn: 0
+  SaveGameFuncBtn: 0
+  LoadGameFuncBtn: 0
+  UploadPlayerDataBtn: 0
+  ExternalData:
+    PlayerID: 
+    DisplayName: Default Danny
+    Coins: 0
+    Gems: 0
+    EdushooterStats:
+      health: 0
+      damage: 0
+      speed: 0
+      dash: 0
+      reload: 0
+      unlockedWeapons: 
+    BestSessions: []
+    PlayerUnlockables:
+      unlockedHeads: 
+      unlockedBodies: 
+  LocalCache:
+    equippedWeapon: 0
+    shuffledMapPlayed: 0
+    selectedMap: 0
+    availableMapA: 0
+    availableMapB: 0
+    bodyModel: 0
+    headModel: 0
+    difficulty: 0
+  LevelCap: 10

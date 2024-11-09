@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8fbd46a6e15f12f459c63dff6dd4418c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 158199
+  packageName: Toon Projectiles
+  packageVersion: 1.3
+  assetPath: Assets/Third Party/Hovl Studio/Toon projectiles/Prefabs/Projectile 7
+    fire.prefab
+  uploadId: 645625

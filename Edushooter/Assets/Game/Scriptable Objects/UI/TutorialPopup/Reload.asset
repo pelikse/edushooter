@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62299e280fc5a174da6917b6b4d0b147, type: 3}
+  m_Name: Reload
+  m_EditorClassIdentifier: 
+  Title: Reload
+  Description: The green button tells you how much ammo you have left. Press it to
+    reload.
+  VideoClip: {fileID: 32900000, guid: cd8b869c4b871b147a149c4ccb4db953, type: 3}

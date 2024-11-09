@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 33f488f9d06ed014eaa419ff3492de7e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Vehicles/cargo_car_001.prefab
+  uploadId: 669596

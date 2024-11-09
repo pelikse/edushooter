@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50215659c5ceed74688fae8922cd116a, type: 3}
+  m_Name: Supermarket
+  m_EditorClassIdentifier: 
+  mapType: 3
+  mapName: Supermarket
+  mapDesc: A busy supermarket in the heart of the city is being raided from all directions.
+  mapSprite: {fileID: 21300000, guid: 4d8e5ec534ddade4eb161d0cfbd5fb47, type: 3}
+  mapPrefab: {fileID: 6188554822814130041, guid: d51e91a00784c1c428e3c790fd9aa4a3,
+    type: 3}

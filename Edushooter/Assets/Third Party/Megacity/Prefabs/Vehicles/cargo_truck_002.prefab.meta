@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1f0d2131c3a5b0408b786657a5e93d5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Vehicles/cargo_truck_002.prefab
+  uploadId: 669596

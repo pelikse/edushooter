@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1372171592746490461
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2436540223204653975}
+  - component: {fileID: 3578320223656034450}
+  - component: {fileID: -3360803297722965312}
+  m_Layer: 9
+  m_Name: PowerupSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &2436540223204653975
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1372171592746490461}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3578320223656034450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1372171592746490461}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce9ab3c4ecf04204e84880cd3a1ac225, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pool: {fileID: -3360803297722965312}
+  predefinedSpawnPositions:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!114 &-3360803297722965312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1372171592746490461}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73098ca8f002adc4f9debdbe47a78c9a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MutualizeWaitingPools: 1
+  NestWaitingPool: 1
+  NestUnderThis: 1
+  Pool:
+  - GameObjectToPool: {fileID: 154168062650071481, guid: 75fbf9d875ab1bd459b0fcdea7bde3e4,
+      type: 3}
+    PoolSize: 1
+    PoolCanExpand: 1
+    Enabled: 1
+  - GameObjectToPool: {fileID: 154168062650071481, guid: b86a77d802638cf4aaf50e1540d122d2,
+      type: 3}
+    PoolSize: 1
+    PoolCanExpand: 1
+    Enabled: 1
+  - GameObjectToPool: {fileID: 154168062650071481, guid: 7f6bbc65c726c524db7f5573c37c2b23,
+      type: 3}
+    PoolSize: 1
+    PoolCanExpand: 1
+    Enabled: 1
+  - GameObjectToPool: {fileID: 154168062650071481, guid: 00b62e979567cfe4cbd5a5c45f4eab20,
+      type: 3}
+    PoolSize: 1
+    PoolCanExpand: 1
+    Enabled: 1
+  PoolingMethod: 3
+  CanPoolSameObjectTwice: 1
+  MutualizedPoolName: 

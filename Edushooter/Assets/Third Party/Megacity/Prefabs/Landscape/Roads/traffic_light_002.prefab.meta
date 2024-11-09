@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b3ff6ad16b7430449a39d217b088d05
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Landscape/Roads/traffic_light_002.prefab
+  uploadId: 669596

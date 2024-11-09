@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fb056d0e0ad01be4caf521cd50eab70b
+timeCreated: 1468404150
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67162
+  packageName: Galaxy Robots Pack 01
+  packageVersion: 1.1
+  assetPath: Assets/Galaxy Robots Pack 01/Robot Creep/Legacy/Prefabs/Robot Creep
+    - Red.prefab
+  uploadId: 183769

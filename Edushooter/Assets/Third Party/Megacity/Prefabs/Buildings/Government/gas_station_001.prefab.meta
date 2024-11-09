@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ed680bb1b06de454dbd4d3737eab5e48
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Buildings/Government/gas_station_001.prefab
+  uploadId: 669596

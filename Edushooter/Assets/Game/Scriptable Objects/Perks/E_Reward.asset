@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ca9e442a438c594687f6b6b1d3128b1, type: 3}
+  m_Name: E_Reward
+  m_EditorClassIdentifier: 
+  PerkName: Decent RIches
+  PerkDescription: 'A moderate boost to the rewards you get after this session''s
+    victory.
+
+    <color=green>+20 Coin Rewards</color>'
+  PerkIcon: {fileID: 21300000, guid: a8154134ef223e74698a7757dff6e926, type: 3}
+  Rarity: 1
+  SelectOnce: 1
+  extraCoinRewards: 20

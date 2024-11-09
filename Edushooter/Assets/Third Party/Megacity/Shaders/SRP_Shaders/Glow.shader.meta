@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: caa9933d12f70be4c96707437f318f02
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Shaders/SRP_Shaders/Glow.shader
+  uploadId: 669596

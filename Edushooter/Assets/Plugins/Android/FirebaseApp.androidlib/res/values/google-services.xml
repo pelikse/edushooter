@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">936575874785</string>
+  <string name="google_storage_bucket" translatable="false">myfirstfirebase-5019a.appspot.com</string>
+  <string name="project_id" translatable="false">myfirstfirebase-5019a</string>
+  <string name="google_api_key" translatable="false">AIzaSyBQe7C3EnD5f1lG9kFKgzJattcXKJokqwk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBQe7C3EnD5f1lG9kFKgzJattcXKJokqwk</string>
+  <string name="google_app_id" translatable="false">1:936575874785:android:735d972ace48f9482669a0</string>
+  <string name="default_android_client_id" translatable="false">936575874785-j77gcjug5g2touq5942e05vcs9gicnj4.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">936575874785-0qbrnu5g2r26sshvj93bpjopas1jig1u.apps.googleusercontent.com</string>
+</resources>

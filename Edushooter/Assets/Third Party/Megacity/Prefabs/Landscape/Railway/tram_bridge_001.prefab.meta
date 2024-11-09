@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fdb9326c51d1ac14c90f1b4e5102cfda
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Landscape/Railway/tram_bridge_001.prefab
+  uploadId: 669596

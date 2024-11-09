@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62299e280fc5a174da6917b6b4d0b147, type: 3}
+  m_Name: Teleport
+  m_EditorClassIdentifier: 
+  Title: Dash Charges
+  Description: The blue button tells how much dash charges you have. You can dash
+    through some thin walls.
+  VideoClip: {fileID: 32900000, guid: ba97fcdf1d68c74468bef048d29008eb, type: 3}

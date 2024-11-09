@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27e257f9c8c01cd479103fe165f696a9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Vehicles/airship_001.prefab
+  uploadId: 669596

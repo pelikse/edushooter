@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b84108e8b659dfd4ba86053706a152d9, type: 3}
+  m_Name: Charger
+  m_EditorClassIdentifier: 
+  Title: 'Enemy: Charger'
+  Panels:
+  - Description: Chargers only spawn on the last wave when you play on difficulty
+      5 or higher.
+    Graphic: {fileID: 21300000, guid: c62face5dbd7dd6419056153e854ee4c, type: 3}
+  - Description: They are incredibly tanky enemies that move slow and deal high damage.
+    Graphic: {fileID: 21300000, guid: 99308d5bb22460b49b1623c1fdda360b, type: 3}
+  - Description: The shield in front of them blocks all bullets except for snipers
+      and rockets.
+    Graphic: {fileID: 21300000, guid: e668824e8a3c57b4388bfa7b80831604, type: 3}
+  - Description: Occasionally, they will attempt to charge. Afterwards, they become
+      stunned. Use this moment to attack them from behind.
+    Graphic: {fileID: 21300000, guid: 43964c2386afb3c4db7cab530b718ffc, type: 3}

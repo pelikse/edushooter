@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e64cf38da8b911b48aabbd2919e1f5ac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Buildings/Government/government_bilding_001.prefab
+  uploadId: 669596

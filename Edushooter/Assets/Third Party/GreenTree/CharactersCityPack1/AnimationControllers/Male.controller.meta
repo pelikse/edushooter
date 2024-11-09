@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0ceb0b6923f62447af7bf91227b7c19
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 231587
+  packageName: Characters City Pack 1
+  packageVersion: 1.0
+  assetPath: Assets/GreenTree/CharactersCityPack1/AnimationControllers/Male.controller
+  uploadId: 522908

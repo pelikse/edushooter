@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 492f51ca0db16b44ba1accec9ee4c1cf, type: 3}
+  m_Name: Charger
+  m_EditorClassIdentifier: 
+  Enemy: 4
+  Health: 4
+  Damage: 4
+  Speed: 1
+  EnemyDescription: The Charger only spawns on the last wave on high difficulty.
+    It's a powerful enemy with the highest health in the game. The shield in front
+    of it blocks <color=#ffb5df>ALL BULLETS</color>, and it can charge at the player
+    once in a while.
+  EnemyTips: You can attempt to damage it by shooting it from behind when it's stunned
+    after charging. Use your teleport and obstacles to cut off direct paths towards
+    you.

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b84108e8b659dfd4ba86053706a152d9, type: 3}
+  m_Name: Teleports
+  m_EditorClassIdentifier: 
+  Title: Teleporting
+  Panels:
+  - Description: Teleporting is a vital part of your character's ability. You store
+      up to two charges at once and regain all charges after a short cooldown.
+    Graphic: {fileID: 21300000, guid: 50a6c5e91022e674ba708bfaae2ba5e8, type: 3}
+  - Description: You can teleport through some thin or low walls, use these to gain
+      distance from enemies!
+    Graphic: {fileID: 21300000, guid: ff278220eccdb914597af2669d4a0092, type: 3}

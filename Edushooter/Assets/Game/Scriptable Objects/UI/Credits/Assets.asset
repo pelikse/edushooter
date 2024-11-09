@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 027943cfe37f9a845b1620eaba69d924, type: 3}
+  m_Name: Assets
+  m_EditorClassIdentifier: 
+  SectionTitle: Assets
+  Attributions:
+  - Role: Sound Effects
+    Name: Pixabay & Freesound.org
+  - Role: Icons
+    Name: games-icons.net
+  - Role: Landing Music
+    Name: Catchy - Uplifting Inspiring Indie Pop by MagpieMusic
+  - Role: Menu Music
+    Name: Catch It by Coma-Media
+  - Role: Menu Music
+    Name: Catch It by Coma-Media
+  - Role: Game Music #1
+    Name: Funky_57sec by Grand_Project
+  - Role: Game Music #2
+    Name: Upbeat Energetic Rock by Vivaleum
+  - Role: Game Music #3
+    Name: Twilight Hustle by Top-Flow
+  - Role: Game Music #4
+    Name: Vivid Thunder by Top-Flow

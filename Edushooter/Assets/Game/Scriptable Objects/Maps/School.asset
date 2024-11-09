@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50215659c5ceed74688fae8922cd116a, type: 3}
+  m_Name: School
+  m_EditorClassIdentifier: 
+  mapType: 4
+  mapName: School
+  mapDesc: The glorious Tomosu School is no more due to a sudden invasion of the
+    robots.
+  mapSprite: {fileID: 21300000, guid: 2c06d9897c7eb8549ab519a479104dd9, type: 3}
+  mapPrefab: {fileID: 0}

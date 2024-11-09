@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7a5ac11cc976e418e8d13136b07e1f52
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 3.5
+  assetPath: Assets/TopDownEngine/ThirdParty/NavMeshComponents/Scripts/NavMeshSurface.cs
+  uploadId: 621949
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

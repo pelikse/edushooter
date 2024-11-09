@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728d5e5ca884ae247a4cbf17a7141d33, type: 3}
+  m_Name: UniversalPerks
+  m_EditorClassIdentifier: 
+  PerkGroups:
+  - Name: Common Perks
+    PerkList:
+    - {fileID: 11400000, guid: 979f6621cb5539f46b9bd2fd7def6bc0, type: 2}
+    - {fileID: 11400000, guid: b66600ea55f8b34458cde18c42e1e33a, type: 2}
+    - {fileID: 11400000, guid: 7b86f1ed792e49547925276f7043274b, type: 2}
+    - {fileID: 11400000, guid: 9ccc531ade0f5274d9ef281d8b51b73c, type: 2}
+    Frequency: 60
+  - Name: Exotic Perks
+    PerkList:
+    - {fileID: 11400000, guid: ef8c1e6885ddbe043ae85b20b968ba5f, type: 2}
+    - {fileID: 11400000, guid: b8f50a0aafa77094cb28de2d08e33b95, type: 2}
+    - {fileID: 11400000, guid: 18acb53f25a52784db52e2b43cab5b4d, type: 2}
+    - {fileID: 11400000, guid: 56b3fe5eb805f6847814447d61bee4e8, type: 2}
+    - {fileID: 11400000, guid: e2ef03441aa343c4e895ce70cc3890b9, type: 2}
+    Frequency: 25
+  - Name: Legendary Perks
+    PerkList:
+    - {fileID: 11400000, guid: 0b0e706dcf371b24a833337820f5790e, type: 2}
+    - {fileID: 11400000, guid: 1fb36920632a21643a99c25744ef0ae5, type: 2}
+    - {fileID: 11400000, guid: 8115622c80a3ea240a11cd9256d8e2b0, type: 2}
+    - {fileID: 11400000, guid: 10362839c405e594999809e080186931, type: 2}
+    - {fileID: 11400000, guid: 5f31cdff441fd18488e79e8586e84b09, type: 2}
+    Frequency: 15
+  _Warning: 0

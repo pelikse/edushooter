@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d5e3b68008540384485ccfac344f0747
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Landscape/Railway/train_body_001.prefab
+  uploadId: 669596

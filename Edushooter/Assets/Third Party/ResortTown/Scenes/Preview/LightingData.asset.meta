@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e552c41b0bec96d40a62f029fe0ead1a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91427
+  packageName: Resort Town
+  packageVersion: 1.4
+  assetPath: Assets/ResortTown/Scenes/Preview/LightingData.asset
+  uploadId: 459212

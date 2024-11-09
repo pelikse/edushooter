@@ -1,0 +1,5 @@
+D:/Repositories/pkl-geometrisatu-edushooter-2024/Edushooter/.utmp/Debug/543212f6/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Repositories/pkl-geometrisatu-edushooter-2024/Edushooter/.utmp/Debug/543212f6/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Repositories/pkl-geometrisatu-edushooter-2024/Edushooter/.utmp/Debug/543212f6/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Repositories/pkl-geometrisatu-edushooter-2024/Edushooter/.utmp/Debug/543212f6/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Repositories/pkl-geometrisatu-edushooter-2024/Edushooter/.utmp/Debug/543212f6/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

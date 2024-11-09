@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57633cde530d56a48995d0733efa9450
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 3.5
+  assetPath: Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/MMDebugMenu/Prefabs/MMDebugMenuTabSpacer.prefab
+  uploadId: 621949

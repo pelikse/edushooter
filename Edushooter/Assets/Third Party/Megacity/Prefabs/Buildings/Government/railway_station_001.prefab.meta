@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 01f6c2567d2f7c44db53ce41191df78a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Buildings/Government/railway_station_001.prefab
+  uploadId: 669596

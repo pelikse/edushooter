@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae8a2825b556b0649994b4c55a994ea6
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 158199
+  packageName: Toon Projectiles
+  packageVersion: 1.3
+  assetPath: Assets/Third Party/Hovl Studio/Toon projectiles/Demo scene/HS_ProjectileMover
+    script example save.txt
+  uploadId: 645625

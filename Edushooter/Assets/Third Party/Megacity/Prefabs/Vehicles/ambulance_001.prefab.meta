@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0768b2edbae42db4fb44df87fb510ad8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Vehicles/ambulance_001.prefab
+  uploadId: 669596

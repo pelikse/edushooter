@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f1e2a400fa539c84f831450bcd921225
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Buildings/Government/police_department_001.prefab
+  uploadId: 669596

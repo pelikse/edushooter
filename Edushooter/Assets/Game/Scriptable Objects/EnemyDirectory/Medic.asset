@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 492f51ca0db16b44ba1accec9ee4c1cf, type: 3}
+  m_Name: Medic
+  m_EditorClassIdentifier: 
+  Enemy: 3
+  Health: 3
+  Damage: 0
+  Speed: 2
+  EnemyDescription: The Medic is a special unit. It doesn't deal damage and keeps
+    it distance from the player. However, it <color=#ffb5df>heals nearby enemies
+    and gives them a shield</color>.
+  EnemyTips: Take down the Medic first, as their aura can bolster other enemies in
+    its radius. They have no offensive options so you can safely get close to attack.

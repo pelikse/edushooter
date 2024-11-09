@@ -1,0 +1,9 @@
+# ninja log v5
+16	622	7485234603630685	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a63a5d701d8186ff
+22	639	7485234603821729	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ec4dc831309fca36
+34	640	7485234603821729	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5ca3ba79ee64f73b
+28	659	7485234604003385	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	1a0708f77b26a61e
+0	677	7485234604186618	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	caef0fa8f7896bf7
+11	714	7485234604580280	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	80c94dfc8d1d2c74
+6	736	7485234604792598	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	2e3d0eb374c0d50b
+736	914	7485234605873978	D:/Repositories/pkl-geometrisatu-edushooter-2024/Edushooter/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/543212f6/obj/arm64-v8a/libgame.so	af4e3e49865f0a52

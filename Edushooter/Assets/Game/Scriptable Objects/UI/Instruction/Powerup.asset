@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b84108e8b659dfd4ba86053706a152d9, type: 3}
+  m_Name: Powerup
+  m_EditorClassIdentifier: 
+  Title: 'Enemy: Charger'
+  Panels:
+  - Description: Powerups are temporary boosts to your character. They grant various
+      powers to your character for several seconds.
+    Graphic: {fileID: 21300000, guid: c62face5dbd7dd6419056153e854ee4c, type: 3}
+  - Description: They always spawn whenever a new wave starts. Their position is
+      indicated by an arrow on your character.
+    Graphic: {fileID: 21300000, guid: c62face5dbd7dd6419056153e854ee4c, type: 3}
+  - Description: Make use of powerups to defeat enemies!
+    Graphic: {fileID: 21300000, guid: c62face5dbd7dd6419056153e854ee4c, type: 3}

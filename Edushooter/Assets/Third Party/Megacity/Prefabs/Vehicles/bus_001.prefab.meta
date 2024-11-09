@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0c7d4da42dd3b1d4685f3ebf60876355
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 282649
+  packageName: Megacity
+  packageVersion: 1.0
+  assetPath: Assets/Megacity/Prefabs/Vehicles/bus_001.prefab
+  uploadId: 669596

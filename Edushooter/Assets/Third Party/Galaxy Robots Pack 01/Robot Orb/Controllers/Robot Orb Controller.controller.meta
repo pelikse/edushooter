@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02386867f79c2d648807222ee1ef5897
+timeCreated: 1468230127
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67162
+  packageName: Galaxy Robots Pack 01
+  packageVersion: 1.1
+  assetPath: Assets/Galaxy Robots Pack 01/Robot Orb/Controllers/Robot Orb Controller.controller
+  uploadId: 183769

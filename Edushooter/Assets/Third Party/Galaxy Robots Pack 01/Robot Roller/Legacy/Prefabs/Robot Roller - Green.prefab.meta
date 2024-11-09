@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7d1f8907cf8636648b7cee039763340f
+timeCreated: 1460628338
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67162
+  packageName: Galaxy Robots Pack 01
+  packageVersion: 1.1
+  assetPath: Assets/Galaxy Robots Pack 01/Robot Roller/Legacy/Prefabs/Robot Roller
+    - Green.prefab
+  uploadId: 183769

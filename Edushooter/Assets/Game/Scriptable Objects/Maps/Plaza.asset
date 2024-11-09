@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50215659c5ceed74688fae8922cd116a, type: 3}
+  m_Name: Plaza
+  m_EditorClassIdentifier: 
+  mapType: 5
+  mapName: Plaza
+  mapDesc: A place of fun turned into a place of horrors when robots invade.
+  mapSprite: {fileID: 21300000, guid: eca34ed11acf6a44f9880fcd2222b9c5, type: 3}
+  mapPrefab: {fileID: 574830126743325653, guid: 705f3d2982e8f794eba98c5adccfcbc2,
+    type: 3}

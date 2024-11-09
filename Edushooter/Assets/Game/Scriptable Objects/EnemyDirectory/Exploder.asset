@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 492f51ca0db16b44ba1accec9ee4c1cf, type: 3}
+  m_Name: Exploder
+  m_EditorClassIdentifier: 
+  Enemy: 2
+  Health: 3
+  Damage: 3
+  Speed: 3
+  EnemyDescription: The Exploder is one of the fastest enemy types and can tank more
+    shots than the Roller. However, they do not deal damage on touch. Instead, they
+    <color=#ffb5df>explode after arming for a second</color>.
+  EnemyTips: You can intentionally bait an Exploder by moving close and then running
+    away. Their explosion can also damage other enemies, so you can use them to your
+    advantage.

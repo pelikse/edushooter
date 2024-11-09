@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2c979275ebf7395478dc6450bee193ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 3.5
+  assetPath: Assets/TopDownEngine/ThirdParty/MoreMountains/MMFeedbacks/MMFeedbacksForThirdParty/MMTools/Feedbacks/Legacy/MMFeedbackMMGameEvent.cs
+  uploadId: 621949

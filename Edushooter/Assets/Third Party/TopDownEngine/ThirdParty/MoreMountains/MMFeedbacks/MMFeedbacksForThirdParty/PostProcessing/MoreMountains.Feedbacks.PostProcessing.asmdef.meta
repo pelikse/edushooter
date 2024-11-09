@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba880a3c55a41254a91d85dd28666dda
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89636
+  packageName: TopDown Engine
+  packageVersion: 3.5
+  assetPath: Assets/TopDownEngine/ThirdParty/MoreMountains/MMFeedbacks/MMFeedbacksForThirdParty/PostProcessing/MoreMountains.Feedbacks.PostProcessing.asmdef
+  uploadId: 621949

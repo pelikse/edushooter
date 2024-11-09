@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b84108e8b659dfd4ba86053706a152d9, type: 3}
+  m_Name: Health Packs
+  m_EditorClassIdentifier: 
+  Title: Medkits
+  Panels:
+  - Description: Occasionally, when enemies die, they drop medkits on the ground.
+      Pick them up to restore health.
+    Graphic: {fileID: 21300000, guid: 4ea0d58e78680eb4487d6ef8f6cb2f93, type: 3}
+  - Description: They expire after a short duration, so you should always pick them
+      up as fast as possible.
+    Graphic: {fileID: 21300000, guid: 2916eb3df6bb10246a8b88f77180df45, type: 3}

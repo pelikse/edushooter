@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b84108e8b659dfd4ba86053706a152d9, type: 3}
+  m_Name: Exploder
+  m_EditorClassIdentifier: 
+  Title: 'Enemy: Exploder'
+  Panels:
+  - Description: Exploders are enemies that have higher health and speed. But they
+      explode instead of dealing damage when close.
+    Graphic: {fileID: 21300000, guid: 698de0b43fb13124990857e670b4afb5, type: 3}
+  - Description: You can hear the sound of a fuse and see them emit a yellow pulse
+      before they explode.
+    Graphic: {fileID: 21300000, guid: fb54585984bf6794eae28cd55126d531, type: 3}
+  - Description: An exploder's explosion can also damage nearby enemies, use this
+      to your advantage!
+    Graphic: {fileID: 21300000, guid: 0298eb964f8ff9c479d2957aa9e11e55, type: 3}

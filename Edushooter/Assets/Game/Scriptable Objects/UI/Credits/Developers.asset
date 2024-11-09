@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 027943cfe37f9a845b1620eaba69d924, type: 3}
+  m_Name: Developers
+  m_EditorClassIdentifier: 
+  SectionTitle: Developers
+  Attributions:
+  - Role: Project Manager
+    Name: Jos Timanta Tarigan
+  - Role: Producer
+    Name: Jos Timanta Tarigan
+  - Role: Lead Programmer
+    Name: Alexander Yuanata
+  - Role: Environmental Artist
+    Name: Muhammad Daffa Shidiq
+  - Role: Cloud Engineer
+    Name: Alexander Yuanata
+  - Role: UI Designer
+    Name: Alexander Yuanata & Muhammad Daffa Shidiq
+  - Role: Gameplay Designer
+    Name: Alexander Yuanata & Muhammad Daffa Shidiq
+  - Role: QA Testing Lead
+    Name: Muhammad Daffa Shidiq & Elin Betsey Br Ginting
